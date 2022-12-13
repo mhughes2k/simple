@@ -1,0 +1,20 @@
+{
+  "data" : [
+    {
+      "id" : "calendar",
+      "title" : "Calendar",
+      "description" : "This is the Calendar widget",
+      "creator" : "SIMPLE Community",
+      "url" : "dashboard/widgets/widget4.html",
+      "image": "dashboard/widgets/calendar.jpg"
+    },
+    {
+      "id" : "tasklist",
+      "title" : "Tasklist",
+      "description" : "This is the Tasklist widget",
+      "creator" : "SIMPLE Community",
+      "url" : "dashboard/widgets/widget5.html",
+      "image": "dashboard/widgets/tasklist.jpg"
+    }
+  ]
+}

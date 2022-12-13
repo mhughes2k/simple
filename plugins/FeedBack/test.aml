@@ -1,0 +1,9 @@
+{"name":"Will Assessment",
+"sender":"Senior Partner",
+"questions":
+[
+{"text":"Have they selected an appropriate will style?","answers":["Competent","Not Competent","Not Competent (No resubmit)"]},
+{"text":"Has the Firm followed appropriate instructions from the client?","answers":["Competent","Not Competent","Not Competent (No resubmit)"]},
+{"text":"Has the firm written an appropriate covering letter? ","answers":["Competent","Not Competent","Not Competent (No resubmit)"]}
+]
+}

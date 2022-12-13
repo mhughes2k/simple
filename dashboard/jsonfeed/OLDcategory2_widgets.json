@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "id" : "w03",
+      "title" : "Examples",
+      "description" : "Examples widget",
+      "creator" : "Mark Machielsen",
+      "url" : "dashboard/widgets/widget3.html",
+      "image": "dashboard/widgets/widget3.png"
+    }
+  ]
+}

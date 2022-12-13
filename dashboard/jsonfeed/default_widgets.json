@@ -1,0 +1,19 @@
+{
+"layout": "layout2",
+"data" : [
+  {
+    "title" : "My Transactions",
+    "id" : "transactionswidget",
+    "column" : "first",
+    "open" : true,
+    "url" : "dashboard/widgets/transactionswidget.php"
+  },
+  {
+    "title" : "News",
+    "column" : "second",
+    "id" : "newswidget",
+    "url" : "dashboard/widgets/newswidget.php",
+    "open" : true
+  }
+]
+}

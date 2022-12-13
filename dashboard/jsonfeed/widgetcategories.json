@@ -1,0 +1,16 @@
+{
+"category": [
+  {
+    "id":1,
+    "title" : "Communication",
+    "amount" : 2,
+    "url" : "dashboard/jsonfeed/category1_widgets.json"
+  },
+  {
+    "id":2,
+    "title" : "Assessment",
+    "amount": 1,
+    "url" : "dashboard/jsonfeed/category2_widgets.json"
+  }
+]
+}
